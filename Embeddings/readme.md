@@ -38,7 +38,9 @@ Sentence vectors were computed by averaging word embeddings:
 
 Used **PCA** and **t-SNE** to project word vectors into 2D space. Words like `car`, `bus`, `train` cluster together, as do `apple`, `banana`, and `fruit`.
 
-![t-SNE Plot](download.png)
+
+![download](https://github.com/user-attachments/assets/568556ee-721d-4905-926d-8782ad3e3d1d)
+![download](https://github.com/user-attachments/assets/4c85536b-64c2-47fd-bb79-efa911e3e9bd)
 
 ---
 
