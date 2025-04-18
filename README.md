@@ -10,7 +10,6 @@ Welcome to my curated collection of Natural Language Processing (NLP) projects. 
 ├── Embeddings/
 │   ├── Word Embeddings and Semantic Similarity.ipynb
 │   ├── readme.md
-│   └── download.png (visualization)
 │
 ├── NER/
 │   ├── NER using CRF.ipynb
