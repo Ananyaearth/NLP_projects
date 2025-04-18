@@ -10,13 +10,6 @@ To determine the most appropriate meaning of an ambiguous word within a sentence
 
 ---
 
-## 📂 Folder Contents
-
-- `Word_Sense_Disambiguation.ipynb`: Jupyter notebook with full code, explanations, and results.
-- `readme.md`: Project details and usage.
-
----
-
 ## 🧪 Sample Sentences Used
 
 - He sat on the **bank** of the river.
