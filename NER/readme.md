@@ -1,9 +1,4 @@
 # 🧠 Named Entity Recognition using Conditional Random Fields (CRF)
-
-### 👩‍🎓 Author
-**Ananya Verma**  
-**Roll No:** MCS24018
-
 ---
 
 ## 📚 Overview
