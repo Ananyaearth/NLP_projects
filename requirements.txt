@@ -1,0 +1,8 @@
+nltk
+spacy
+sklearn-crfsuite
+gensim==4.3.3
+scikit-learn
+matplotlib
+numpy<2.0
+datasets
