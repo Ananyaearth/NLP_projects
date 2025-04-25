@@ -56,19 +56,6 @@ macro avg 0.78 0.78 0.78 300 weighted avg 0.78 0.78 0.78 300
 
 ---
 
-## 🔥 How to Run
-
-1. Install required libraries:
-
-```bash
-pip install transformers datasets scikit-learn
-Run the Jupyter Notebook or Python script:
-
-Extract BERT embeddings for sentences
-
-Train Logistic Regression
-
-Predict sentiment on test set or custom sentences
 
 🧠 Future Improvements
 Train on full IMDb dataset (50,000 samples) for higher accuracy.
