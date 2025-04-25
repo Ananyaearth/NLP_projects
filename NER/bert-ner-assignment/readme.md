@@ -57,4 +57,5 @@ California → ORG
   "epoch": 1.0
 }
 
-
+⚠️ Due to GitHub file size limits, the `model.safetensors` file is not included here.
+To re-generate the model, run the notebook.
